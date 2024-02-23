@@ -2,7 +2,7 @@ Project Structure <br>
 - Pages
   - Home
     - Planet
-      - PlanetCard
+      - PlanetCard(Clicking on Card will take to Population page)
   - Population
     - Population
       - PopulationCard
