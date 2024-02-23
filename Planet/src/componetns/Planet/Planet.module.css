@@ -1,0 +1,17 @@
+.paginationContainer{
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+}
+.cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+.mainContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
